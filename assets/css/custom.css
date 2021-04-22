@@ -1,0 +1,22 @@
+.wrapper {
+    background: linear-gradient(180deg,#91c3ff,#c79af3 50%,#f0a3b2);
+    min-height: 100vh;
+}
+
+.box {
+    padding: 10%;
+}
+
+.timer {
+    font-size: 7rem;
+    color: #fff;
+}
+
+.wrapper-agenda {
+    margin: 0 auto;
+    width: 90%;
+    min-height: 600px;
+}
+.title-agenda {
+    padding: 2% 5%;
+}
